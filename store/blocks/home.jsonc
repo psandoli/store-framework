@@ -47,7 +47,9 @@
     "flex-layout.row":{
       "children": [
         "info-card#rethink",
-        "rich-text#delete"
+        "flex-layout.col",
+        "image#electronics",
+        "image#major-appliance"
       ]
     },
    "info-card#rethink": {
