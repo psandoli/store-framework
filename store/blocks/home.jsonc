@@ -62,12 +62,12 @@
   },
   "flex-layout.col": {
     "props": {
-      "text": "I'll be deleted soon",
-      "children": [
-        "image#electronics",
-        "image#major-appliance"
-      ]
-    }
+      "text": "I'll be deleted soon"
+    },
+    "children": [
+      "image#electronics",
+      "image#major-appliance"
+    ]
   },
   "image#electronics": {
     "props": {
