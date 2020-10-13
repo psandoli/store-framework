@@ -43,7 +43,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
       "blockClass": "metal" 
-    },
+    }
   },
   "flex-layout.row":{
     "children": [
